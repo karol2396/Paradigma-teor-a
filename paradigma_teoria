@@ -1,0 +1,20 @@
+Paradigma o teoría
+1.	¿Qué es un paradigma?
+ Es un conjunto distinto de conceptos o patrones de pensamiento, incluyendo teorías, métodos de investigación, postulados y normas para lo que constituye contribuciones legítimas a un campo.
+2.	¿Qué es una teoría?
+Sirven para confeccionar modelos científicos que interpreten un conjunto amplio de observaciones, en función de los axiomas o principios, supuestos y postulados, de la teoría.
+3.	¿Que son datos?
+Es una representación simbólica de un atributo o variable cuantitativa o cualitativa. Los datos describen hechos empíricos, sucesos y entidades. Es un valor o referente que recibe el computador por diferentes medios, los datos representan la información que el programador manipula en la construcción de una solución o en el desarrollo de un algoritmo.
+4.	¿Qué son funciones?
+Una función es un conjunto de líneas de código que realizan una tarea específica y puede retornar un valor. Las funciones pueden tomar parámetros que modifiquen su funcionamiento. Las funciones son utilizadas para descomponer grandes problemas en tareas simples y para implementar operaciones que son comúnmente utilizadas durante un programa y de esta manera reducir la cantidad de código.
+5.	¿Qué son clases?
+Es una plantilla para la creación de objetos de datos según un modelo predefinido. Las clases se utilizan para representar entidades o conceptos, como los sustantivos en el lenguaje.
+6.	¿Qué es Abstracción?
+Consiste en aislar un elemento de su contexto o del resto de los elementos que lo acompañan.
+7.	¿Qué es encapsular?
+Se denomina encapsulamiento al ocultamiento del estado, es decir, del dato miembro de un objeto de manera que solo se pueda cambiar mediante las operaciones definidas para ese objeto.
+8.	¿Qué es polimorfismo?
+Se refiere a la propiedad por la que es posible enviar mensajes sintácticamente iguales a objetos de tipos distintos. El único requisito que deben cumplir los objetos que se utilizan de manera polimórfica es saber responder al mensaje que se les envía.
+9.	Conclusión
+Programación orientada a objetos es un paradigma ya que tiene como objetivo el desarrollo computacional basado en una colección de objetos que están interrelacionados y trabajan conjuntamente para resolver un problema. Surge dentro de los paradigmas de la programación como un enfoque diferente al momento de obtener soluciones computacionales.
+ 
