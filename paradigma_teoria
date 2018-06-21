@@ -15,6 +15,7 @@ Consiste en aislar un elemento de su contexto o del resto de los elementos que l
 Se denomina encapsulamiento al ocultamiento del estado, es decir, del dato miembro de un objeto de manera que solo se pueda cambiar mediante las operaciones definidas para ese objeto.
 8.	¿Qué es polimorfismo?
 Se refiere a la propiedad por la que es posible enviar mensajes sintácticamente iguales a objetos de tipos distintos. El único requisito que deben cumplir los objetos que se utilizan de manera polimórfica es saber responder al mensaje que se les envía.
-9.	Conclusión
+9. Herencia en Programacion orientada a Objetos es Es una propiedad que permite que los objetos sean creados a partir de otros ya existentes, obteniendo características (métodos y atributos) similares a los ya existentes. Es la relación entre una clase general y otra clase mas especifica.
+10.	Conclusión
 Programación orientada a objetos es un paradigma ya que tiene como objetivo el desarrollo computacional basado en una colección de objetos que están interrelacionados y trabajan conjuntamente para resolver un problema. Surge dentro de los paradigmas de la programación como un enfoque diferente al momento de obtener soluciones computacionales.
  
